@@ -20,4 +20,3 @@ Skills: HTML / CSS/ Python/ Cybersecurity
 
 ![GitHub metrics](https://metrics.lecoq.io/Nicholas-Cuc)  
   
-
