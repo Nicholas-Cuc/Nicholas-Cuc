@@ -16,7 +16,8 @@ Skills: HTML / CSS/ Python/ Cybersecurity
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nicholas-Cuc&show_icons=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/Nicholas-Cuc)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Nicholas-Cuc)
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Nicholas-Cuc)  
+![GitHub metrics](https://metrics.lecoq.io/Nicholas-Cuc)  
+  
 
