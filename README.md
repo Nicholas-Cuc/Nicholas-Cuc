@@ -2,7 +2,7 @@
 #### Development and Cybersecurity
 ![Development and Cybersecurity](https://yt3.googleusercontent.com/Vt_zdE3EYubetz8XPKx-PArjNIoR7RSptABf-vBtz1vTGAGJHtkRpl-VoPtj5p4jYCzfPnIf=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
 
-I'm Nicholas from US, Florida. I have a Youtube channel where I hope to teach about technology and show my progress in learning Computer Science. I am a current Computer Science undergrad that enjoys learning more about programming and Information Technology. I am CompTIA certified  in Network+ and Security+. I am currently learning Python but I hope to expand my knowledge on programming languages!
+I'm Nicholas from US, Florida. I have a Youtube channel where I hope to teach about technology and show my progress in learning Computer Science. I am a current Computer Science major at the University of Florida that enjoys learning more about programming and Information Technology. I am CompTIA certified  in Network+ and Security+. I am currently learning Python but I hope to expand my knowledge on programming languages!
 
 YT Channel: https://www.youtube.com/@AByteOnTheGo
 
